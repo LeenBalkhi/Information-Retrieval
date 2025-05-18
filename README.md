@@ -28,13 +28,6 @@ This project implements an Information Retrieval system that indexes a collectio
    cd Information-Retrieval
    ```
 
-2. Ensure you have the necessary Python packages installed:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   *Note: If `requirements.txt` is not provided, manually install any required packages as needed.*
 
 ### Usage
 
@@ -59,10 +52,3 @@ This project implements an Information Retrieval system that indexes a collectio
 * `idf_term.txt` - Output file storing the IDF values for terms
 * `term.txt` - Output file listing all terms processed
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is open-source and available under the MIT License.
